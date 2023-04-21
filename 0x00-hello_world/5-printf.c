@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - A C program that prints exactly as given.
  * Return: 0
  */
