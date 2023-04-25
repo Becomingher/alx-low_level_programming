@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 /*
  * main -  a program that prints _putchar, followed by a new line.
  * Return: 0
@@ -13,5 +15,5 @@ int main(void)
 	printf("h");
 	printf("a");
 	printf("r\n");
-	return 0
+	return 0;
 }
