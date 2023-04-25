@@ -5,7 +5,7 @@
  * main -  a program that prints _putchar, followed by a new line.
  * Return: 0
  */
-int main(void)
+   int main(void)
 {
 	printf("_");
 	printf("p");
@@ -15,5 +15,5 @@ int main(void)
 	printf("h");
 	printf("a");
 	printf("r\n");
-	return 0;
+	return (0);
 }
