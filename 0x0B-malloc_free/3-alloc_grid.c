@@ -17,7 +17,8 @@ if (mee == NULL)
 return (NULL);
 for (x = 0; x < height; x++)
 {
-mee[x] = malloc(sizeof(int) * width);if (mee[x] == NULL)
+mee[x] = malloc(sizeof(int) * width);
+if (mee[x] == NULL)
 {
 for (; x >= 0; x--)
 free(mee[x]);
