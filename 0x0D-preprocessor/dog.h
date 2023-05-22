@@ -5,7 +5,7 @@
 * @name: First member
 * @age: Second member
 * @owner: Third member
-* Description: Nothing really needed
+* Description: A description
 */
 struct dog
 {
