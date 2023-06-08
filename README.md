@@ -1,2 +1,1 @@
-0x02. C - Functions, nested loops
-C
+0x09. C - Static libraries
